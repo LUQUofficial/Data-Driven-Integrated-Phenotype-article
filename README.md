@@ -1,6 +1,5 @@
 README.md
 scripts/
-  01_rhythm_metrics.R
-  02_pca_clustering.R
-  03_xgboost_shap.R
-  04_regression.R
+ 01_pca_kmeans.R
+ 02_xgboost_shap.R
+ 03_regression.R
